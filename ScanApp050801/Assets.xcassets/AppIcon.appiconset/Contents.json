@@ -1,41 +1,49 @@
 {
   "images" : [
     {
+      "filename" : "WeScanAppIcon20pt@2x.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "WeScanAppIcon20pt@3x.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "WeScanAppIcon29pt@2x.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "WeScanAppIcon29pt@3x.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "WeScanAppIcon40pt@2x.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "WeScanAppIcon40pt@3x.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "WeScanAppIcon60pt@2x.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "WeScanAppIcon60pt@3x.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
