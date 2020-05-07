@@ -13,6 +13,7 @@ class ViewController: UIViewController,ImageScannerControllerDelegate,UIImagePic
 
     
     
+    @IBOutlet weak var imageView: UIImageView!
     
     
     
@@ -123,6 +124,12 @@ class ViewController: UIViewController,ImageScannerControllerDelegate,UIImagePic
         
         func scanImage() {
             let scannerViewController = ImageScannerController(delegate: self)
+            
+//            let scannerViewController = ImageScannerController()
+//            scannerViewController.delegate = self
+//            
+//            present(scannerViewController,animated: true)
+//            
             scannerViewController.modalPresentationStyle = .fullScreen
             
             if #available(iOS 13.0, *) {
